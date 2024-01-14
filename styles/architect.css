@@ -188,6 +188,16 @@ padding: 30px;
 .sponsors-img-container img{
     width: 165px;
 }
+.footer{
+    border-radius: 8px;
+    background: #FFF4E7;
+    text-align: center;
+    margin: 0 auto;
+   max-width: 1440px;
+    height: 80px;
+    color: #424242;
+    padding-top: 70px;
+}
 
 /* responsive styles */
 @media screen and (max-width: 576px) {
